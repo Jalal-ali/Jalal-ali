@@ -9,6 +9,10 @@
 I’m Jalal Ali, a Full-Stack Developer specializing in building modern, scalable web and mobile applications with the MERN stack, Next.js, and React Native. I enjoy writing clean, maintainable code, solving real-world problems, and contributing across both frontend and backend systems.
 
 ---
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 ## <img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/problem-solving-3d-icon-png-download-11037950.png" width="40" alt="Profile Icon" /> Core Skills
 
