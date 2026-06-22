@@ -11,8 +11,8 @@ I believe technology is more than just a profession—it's a platform for creati
 
 Feel free to explore my repositories, contribute to projects, or connect with me. I'm always excited to collaborate, learn from others, and be part of the ever-evolving world of software development and artificial intelligence.</p>
 
-| Currently Learning 
-| ------------------ | --------- |
+| Currently Learning |
+| ------------------ |
 
 <p align="center">
 	<a href="https://mabdullahjs.com/" align="center" target="_blank"
