@@ -1,17 +1,17 @@
 <h3 align="center" style="margin-top: 4px;">A Passionate Full-Stack Developer!</h3>
 
 <p>
-	Hello, fellow coders and tech enthusiasts! I'm a passionate software engineer, a dedicated MERN stack developer, and Agentic AI developer, and deeply in love with the art of programming. Here on my GitHub account, you'll find a treasure trove of my coding adventures and projects that reflect my unending passion for creating innovative solutions.
+Hello! I'm Jalal Ali, a passionate Full-Stack Developer with experience building modern web applications using the MERN Stack, Next.js, and related technologies. I enjoy transforming ideas into scalable, user-friendly digital solutions and continuously expanding my knowledge in software engineering.
 
-Within this GitHub realm, you'll discover a diverse array of projects, code snippets, and experiments spanning various domains. From web applications harnessing the latest technologies to a wide range of software development projects, my GitHub is a testament to my unwavering commitment to the world of software development.
+On this GitHub profile, you'll find a collection of projects that showcase my journey as a developer—from responsive web applications and REST API integrations to full-stack solutions designed with performance and user experience in mind. Every project represents my commitment to writing clean code, solving real-world problems, and continuously improving my craft.
 
-In addition to my software engineering endeavors, I founded Innovatrix Tech at the age of 20 and currently serve as its CEO. This experience has provided me with valuable insights into entrepreneurship and leadership in the tech industry.
+My primary expertise lies in JavaScript, React, Next.js, Node.js, Express.js, and MongoDB. Alongside web development, I have a growing interest in Artificial Intelligence, Machine Learning, and Deep Learning. I am actively exploring these fields to understand how intelligent systems can be used to create innovative products and enhance the future of technology.
 
-Programming isn't merely a job. It's a way of life. I'm motivated by the desire to craft meaningful solutions, tackle complex challenges, and embark on a perpetual journey of learning and growth in this dynamic field.
+I believe technology is more than just a profession—it's a platform for creativity, learning, and impact. Whether I'm developing applications, learning new technologies, or experimenting with AI concepts, I am driven by curiosity and a desire to build meaningful solutions.
 
-Feel free to explore, collaborate, or connect if you share the same fervor for software development and the exciting world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time!</p>
+Feel free to explore my repositories, contribute to projects, or connect with me. I'm always excited to collaborate, learn from others, and be part of the ever-evolving world of software development and artificial intelligence.</p>
 
-| Currently Learning | Autogen, LangGraph |
+| Currently Learning 
 | ------------------ | --------- |
 
 <p align="center">
