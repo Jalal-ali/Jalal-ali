@@ -44,7 +44,7 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 </p>
 
 <!--Night Owl image-->
-<div style="position: relative;">
+<div>
 
   <img 
     src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
