@@ -43,23 +43,6 @@ Feel free to explore my repositories, contribute to projects, or connect with me
   <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge" />
 </p>
 
-<!--Night Owl image-->
-<div>
-
-  <img 
-    src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
-    width="30%"
-    style="
-      position: absolute;
-      right: 0;
-      top: 0;
-      z-index: 10;
-    "
-  />
-
-</div>
-
-
 ## 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
