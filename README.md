@@ -56,7 +56,8 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 ### Languages and Tools ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,firebase,jquery,redux,git,github,npm,vite,vscode,idea,postman,figma,apache" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,firebase" />
+	<img src="https://skillicons.dev/icons?i=jquery,redux,git,github,npm,vite,vscode,idea,postman,figma,apache" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
