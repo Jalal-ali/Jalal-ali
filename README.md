@@ -22,8 +22,6 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 
 
 ---
-<!--Night Owl image-->
-
 
 ## <img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/problem-solving-3d-icon-png-download-11037950.png" width="40" alt="Profile Icon" /> Core Skills
 
@@ -45,8 +43,9 @@ Feel free to explore my repositories, contribute to projects, or connect with me
   <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge" />
 </p>
 
+<!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 
