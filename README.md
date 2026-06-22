@@ -42,7 +42,7 @@ I’m Jalal Ali, a Full-Stack Developer specializing in building modern, scalabl
 - Vercel
 ### Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" />
 </p> 
 
