@@ -25,7 +25,7 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 
 ## <img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/problem-solving-3d-icon-png-download-11037950.png" width="40" alt="Profile Icon" /> Core Skills
 
-### Tools and Technologies ⚙️
+## 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,firebase" />
@@ -87,7 +87,7 @@ Feel free to explore my repositories, contribute to projects, or connect with me
   <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
 </p>
 
-## 🛠️ Tools & Platforms
+## 🧩 Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
