@@ -57,6 +57,15 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,firebase,jquery,redux,git,github,npm,vite,vscode,idea,postman,figma,apache" />
+	<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge" />
 </p>
 
 ---
