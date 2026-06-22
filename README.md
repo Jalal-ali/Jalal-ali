@@ -25,12 +25,7 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 
 <h3><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/problem-solving-3d-icon-png-download-11037950.png" width="40" alt="Profile Icon" /> Core Skills</h3> 
 
-## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,firebase" />
-	<img src="https://skillicons.dev/icons?i=jquery,redux,git,github,npm,vite,vscode,idea,postman,figma,apache" />
-</p>
 
 ## 💻 Languages
 <p>
