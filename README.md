@@ -53,9 +53,6 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 - C Programming
 - Java
 
-### Tools & Deployment
-- Git, GitHub  
-- Vercel
 ### Languages and Tools ⚙️
 
 <p align="center">
