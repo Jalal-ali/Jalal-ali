@@ -1,3 +1,4 @@
+<img alt="Coding" style="border-radius:16px;" src="cvr git.png">
 <h3 align="center" style="margin-top: 4px;">A Passionate Full-Stack Developer!</h3>
 
 <p>
