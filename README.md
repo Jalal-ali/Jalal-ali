@@ -16,7 +16,7 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 | ------------------ |
 
 <p align="center">
-	<a href="my-portfolio-xi-ten-19.vercel.app" align="center" target="_blank"
+	<a href="https://my-portfolio-xi-ten-19.vercel.app/" align="center" target="_blank"
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
 		PORTFOLIO WEBSITE</a>
 </p>
