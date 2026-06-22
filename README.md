@@ -29,30 +29,6 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 
 ## <img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/problem-solving-3d-icon-png-download-11037950.png" width="40" alt="Profile Icon" /> Core Skills
 
-### Frontend
-- React.js, Next.js
-- PHP
-- HTML5, CSS3, Tailwind CSS
-- Java FX/Swing
-
-### Backend
-- Node.js, Express.js
-- REST APIs, JWT Authentication, bcrypt
-- Nodemon
-- JAVA
-
-### Databases
-- MongoDB  
-- PostgreSQL  
-- MySQL  
-
-### Programming
-- JavaScript
-- Typescript
-- Python  
-- C Programming
-- Java
-
 ### Languages and Tools ⚙️
 
 <p align="center">
