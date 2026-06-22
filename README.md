@@ -56,8 +56,8 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 ### Languages and Tools ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" />
-</p> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,firebase,jquery,redux,git,github,npm,vite,vscode,idea,postman,figma,apache" />
+</p>
 
 ---
 
