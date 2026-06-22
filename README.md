@@ -23,7 +23,7 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 
 ---
 
-<h2><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/problem-solving-3d-icon-png-download-11037950.png" width="40" alt="Profile Icon" /> Core Skills</h3> 
+<h2 align="center"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/problem-solving-3d-icon-png-download-11037950.png" width="40" alt="Profile Icon" /> Core Skills</h3> 
 
 
 
