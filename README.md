@@ -1,4 +1,4 @@
-<h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
+<h3 align="center" style="margin-top: 4px;">A Passionate Full-Stack Developer!</h3>
 
 <p>
 	Hello, fellow coders and tech enthusiasts! I'm a passionate software engineer, a dedicated MERN stack developer, and Agentic AI developer, and deeply in love with the art of programming. Here on my GitHub account, you'll find a treasure trove of my coding adventures and projects that reflect my unending passion for creating innovative solutions.
