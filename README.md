@@ -44,8 +44,14 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 </p>
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div style="position: relative; display: flex; justify-content: flex-end;">
+  
+  <img 
+    src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" 
+    width="30%" 
+    style="position: relative; z-index: 10;"
+  />
+
 </div>
 
 
