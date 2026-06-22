@@ -32,12 +32,14 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 ### Frontend
 - React.js, Next.js
 - PHP
-- HTML5, CSS3, Tailwind CSS  
+- HTML5, CSS3, Tailwind CSS
+- Java FX/Swing
 
 ### Backend
 - Node.js, Express.js
 - REST APIs, JWT Authentication, bcrypt
 - Nodemon
+- JAVA
 
 ### Databases
 - MongoDB  
@@ -48,7 +50,8 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 - JavaScript
 - Typescript
 - Python  
-- C Programming  
+- C Programming
+- Java
 
 ### Tools & Deployment
 - Git, GitHub  
