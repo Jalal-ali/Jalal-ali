@@ -113,14 +113,12 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/mabdullahjs/" target="blank"><img align="center"
+	<a href="https://www.linkedin.com/in/jalal-ali-733490164/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://twitter.com/mabdullah2037" target="blank" style="padding:8px"><img align="center" style="margin:8px"
-			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://www.instagram.com/m.abdullah_js/" target="blank" style="padding:8px"><img align="center"
+	<a href="https://www.instagram.com/oumaar_1011" target="blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=instagram" alt="mabdullah" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="mabdullah" align="right" />
+		alt="jalal-ali" align="right" />
 </p>
 
 ⭐ *If you find my work useful, consider starring a repository.*
