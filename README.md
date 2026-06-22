@@ -71,72 +71,74 @@ Feel free to explore my repositories, contribute to projects, or connect with me
   <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge" />
 </p>
 
+
 ## 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ## 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,react,nextjs,jquery,redux" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/SPA%2FSSR-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Animations-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_Animations-FF6F00?style=for-the-badge" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge" />
 </p>
 
 ## ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Development-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Development-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/File_Handling-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collections_Framework-7952B3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/File%20Handling-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collections%20Framework-7952B3?style=for-the-badge" />
 </p>
 
 ## 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge" />
 </p>
 
-## 🤖 AI & Learning
+## 🤖 AI & Emerging Tech
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
 </p>
 
 ## 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,npm,vite,figma,canva" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB_Compass-13AA52?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB%20Compass-13AA52?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
 ## <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/067/613/142/small/3d-rendering-of-a-bullseye-target-hit-by-arrow-red-white-and-blue-colors-success-and-achievement-concept-transparent-background-png.png" width="48" alt="Profile Icon" /> What I Do 
