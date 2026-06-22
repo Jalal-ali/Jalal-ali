@@ -96,6 +96,13 @@ Feel free to explore my repositories, contribute to projects, or connect with me
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,firebase" />
+	<img src="https://skillicons.dev/icons?i=jquery,redux,git,github,npm,vite,vscode,idea,postman,figma,apache" />
+</p>
+
 ## <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/067/613/142/small/3d-rendering-of-a-bullseye-target-hit-by-arrow-red-white-and-blue-colors-success-and-achievement-concept-transparent-background-png.png" width="48" alt="Profile Icon" /> What I Do 
 
 - Build responsive and accessible UIs  
