@@ -20,7 +20,6 @@ Feel free to explore my repositories, contribute to projects, or connect with me
 		PORTFOLIO WEBSITE</a>
 </p>
 
-
 ---
 
 ## 💻 Languages
