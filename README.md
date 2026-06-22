@@ -1,12 +1,25 @@
-<h2 align="center">
-  Hi there <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="28px">
-</h2>
+<h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
 
+<p>
+	Hello, fellow coders and tech enthusiasts! I'm a passionate software engineer, a dedicated MERN stack developer, and Agentic AI developer, and deeply in love with the art of programming. Here on my GitHub account, you'll find a treasure trove of my coding adventures and projects that reflect my unending passion for creating innovative solutions.
 
----
+Within this GitHub realm, you'll discover a diverse array of projects, code snippets, and experiments spanning various domains. From web applications harnessing the latest technologies to a wide range of software development projects, my GitHub is a testament to my unwavering commitment to the world of software development.
 
-## <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/052/510/661/small/3d-user-icon-png.png" width="36" alt="Profile Icon" /> About Me
-I’m Jalal Ali, a Full-Stack Developer specializing in building modern, scalable web and mobile applications with the MERN stack, Next.js, and React Native. I enjoy writing clean, maintainable code, solving real-world problems, and contributing across both frontend and backend systems.
+In addition to my software engineering endeavors, I founded Innovatrix Tech at the age of 20 and currently serve as its CEO. This experience has provided me with valuable insights into entrepreneurship and leadership in the tech industry.
+
+Programming isn't merely a job. It's a way of life. I'm motivated by the desire to craft meaningful solutions, tackle complex challenges, and embark on a perpetual journey of learning and growth in this dynamic field.
+
+Feel free to explore, collaborate, or connect if you share the same fervor for software development and the exciting world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time!</p>
+
+| Currently Learning | Autogen, LangGraph |
+| ------------------ | --------- |
+
+<p align="center">
+	<a href="https://mabdullahjs.com/" align="center" target="_blank"
+		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
+		PORTFOLIO WEBSITE</a>
+</p>
+
 
 ---
 <!--Night Owl image-->
